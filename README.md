@@ -31,7 +31,7 @@ This project is based on a free template, so some advanced features (like fully 
 - Blog / Posts
 
 ## 🌐 Live Demo
-(Add your deployed link here - GitHub Pages / Netlify)
+https://vault-edge-psi.vercel.app/
 
 ## 👩‍💻 Author
 Rabina Vishwakarma
