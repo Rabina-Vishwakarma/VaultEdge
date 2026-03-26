@@ -1,5 +1,7 @@
 # VaultEdge – Financial & Loan Services Website Template
 
+![VaultEdge Screenshot](homepage.png)
+
 VaultEdge is a modern, clean, and fully responsive financial services website template designed for loan agencies, fintech startups, and corporate businesses. It provides a professional UI for showcasing financial services, investment plans, and business growth solutions.
 
 ## 🚀 Features
