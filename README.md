@@ -1,37 +1,40 @@
-# VaultEdge - Financial & Loan Services Website
+# VaultEdge – Financial & Loan Services Website Template
 
-VaultEdge is a multi-page financial services website built using a free template from Themes Wagon. It represents a modern platform for loan services, investment planning, and financial growth.
+VaultEdge is a modern, clean, and fully responsive financial services website template designed for loan agencies, fintech startups, and corporate businesses. It provides a professional UI for showcasing financial services, investment plans, and business growth solutions.
 
 ## 🚀 Features
-- Multi-page website (Home, About, Services, Contact, Blog)
-- Clean and modern financial UI design
-- Responsive layout (works on mobile & desktop)
-- Pre-designed sections for financial services and insights
-- Basic forms included (UI only)
+- Multi-page template (Home, About, Services, Contact, Blog)
+- Modern and clean financial UI design
+- Fully responsive (mobile, tablet, desktop)
+- Smooth layout and user-friendly navigation
+- Pre-designed sections for services and business information
+- Easy to customize and developer-friendly
 
-## ⚠️ Note
-This project is based on a free template, so some advanced features (like fully functional forms, backend integration, and premium UI components) are not included.
-
-## 💼 Purpose
-- Practice frontend development
-- Learn website structure and deployment
-- Showcase a financial domain project for portfolio
+## 💼 Use Cases
+- Financial services companies
+- Loan agencies
+- Investment firms
+- Startup landing pages
+- Corporate business websites
 
 ## 🛠️ Tech Stack
 - HTML5
 - CSS3
 - JavaScript
-- SCSS (template-based)
+- SCSS
 
 ## 📂 Pages Included
 - Home (index.html)
 - About
 - Services
 - Contact
-- Blog / Posts
+- Blog
 
 ## 🌐 Live Demo
 https://vault-edge-psi.vercel.app/
+
+## 📥 Download
+https://github.com/Rabina-Vishwakarma/VaultEdge/archive/refs/heads/main.zip
 
 ## 👩‍💻 Author
 Rabina Vishwakarma
